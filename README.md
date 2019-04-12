@@ -4,4 +4,4 @@ Nim est un jeu de stratégie mathématique dans lequel deux joueurs retirent à 
 
 Passe 95% des tests.
 
-![alt text](https://github.com/Eydou/CPE_Matchstick_2018/mat.png)
+![alt text](https://github.com/Eydou/CPE_Matchstick_2018/blob/master/mat.png)
